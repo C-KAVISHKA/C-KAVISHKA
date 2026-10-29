@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- ══════════════════ 3D WebXR CINEMATIC HERO ══════════════════ -->
+<!-- ══════════════════ DYNAMIC ANIMATED 3D WebXR HERO BANNER ══════════════════ -->
 <a href="https://c-kavishka.github.io">
-  <img src="./assets/banner.jpg" width="100%" alt="Channa Kavishka // 3D WebXR & Full-Stack Software Engineer" style="border-radius: 12px;" />
+  <img src="./assets/banner.svg" width="100%" alt="Channa Kavishka // 3D WebXR & Full-Stack Software Engineer" />
 </a>
 
 <br/><br/>
 
-<!-- ══════════════════ CLEAN ELEGANT SOCIAL BAR ══════════════════ -->
+<!-- ══════════════════ SLEEK UNIFIED SOCIAL BAR ══════════════════ -->
 <p align="center">
   <a href="https://c-kavishka.github.io">
     <img src="https://img.shields.io/badge/Portfolio-c--kavishka.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=00f0ff&labelColor=161b22" />
@@ -22,10 +22,6 @@
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open_to_Roles-0d1117?style=flat-square&logo=statuspage&logoColor=00ff88&labelColor=161b22" />
-</p>
-
-<p align="center">
-  <b>BSc (Hons) Software Engineering</b> • Cardiff Metropolitan University '26 &nbsp;|&nbsp; <b>Three.js & WebGL</b> &nbsp;|&nbsp; <b>Full-Stack Enterprise</b>
 </p>
 
 </div>
@@ -113,6 +109,15 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-KAVISHKA&theme=dark&background=0d1117&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff&sideLabels=c9d1d9&sideNums=00f0ff&currStreakNum=00f0ff&dates=6b7280&border=30363d" width="49%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=C-KAVISHKA&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=30363d&langs_count=6" width="49%" />
+
+<br/><br/>
+
+<!-- ANIMATED COMMIT SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C-KAVISHKA/C-KAVISHKA/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C-KAVISHKA/C-KAVISHKA/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/C-KAVISHKA/C-KAVISHKA/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
