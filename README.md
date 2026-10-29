@@ -7,31 +7,28 @@
 
 <br/><br/>
 
-<!-- ══════════════════ DYNAMIC TYPING SUBTITLE ══════════════════ -->
-<a href="https://c-kavishka.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%E2%88%BF+Architecting+Immersive+3D+WebXR+Spaces;%E2%88%BF+Engineering+Scalable+Full-Stack+Enterprise+Systems;%E2%88%BF+Cardiff+Metropolitan+University+%E2%80%94+BSc+(Hons)+SE;%E2%88%BF+Open+for+Software+Engineering+Opportunities" alt="Typing Subtitle" />
-</a>
+<!-- ══════════════════ CLEAN ELEGANT SOCIAL BAR ══════════════════ -->
+<p align="center">
+  <a href="https://c-kavishka.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-c--kavishka.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=00f0ff&labelColor=161b22" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/channa-sandaruwan">
+    <img src="https://img.shields.io/badge/LinkedIn-channa--sandaruwan-0d1117?style=flat-square&logo=linkedin&logoColor=0077b5&labelColor=161b22" />
+  </a>
+  &nbsp;
+  <a href="mailto:channasadhruvan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-channasadhruvan-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=161b22" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Roles-0d1117?style=flat-square&logo=statuspage&logoColor=00ff88&labelColor=161b22" />
+</p>
 
-<br/>
-
-<!-- ══════════════════ QUICK CONNECT PILLS ══════════════════ -->
-<a href="https://c-kavishka.github.io">
-  <img src="https://img.shields.io/badge/PORTFOLIO-c--kavishka.github.io-00f0ff?style=for-the-badge&logo=safari&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/channa-sandaruwan">
-  <img src="https://img.shields.io/badge/LINKEDIN-channa--sandaruwan-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:channasadhruvan@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=for-the-badge&logo=statuspage&logoColor=black" />
+<p align="center">
+  <b>BSc (Hons) Software Engineering</b> • Cardiff Metropolitan University '26 &nbsp;|&nbsp; <b>Three.js & WebGL</b> &nbsp;|&nbsp; <b>Full-Stack Enterprise</b>
+</p>
 
 </div>
-
-<br/>
 
 ---
 
@@ -40,8 +37,6 @@
 > **"Bridging real-time 3D spatial computing with high-scale enterprise architectures."**  
 >  
 > Final-year **BSc (Hons) Software Engineering** student at **Cardiff Metropolitan University** ('26). I specialize in **Three.js, WebGL shaders, interactive GSAP animations**, and **scalable backend services with Spring Boot and Node.js**.
-
-<br/>
 
 ---
 
@@ -81,11 +76,11 @@
 
 <p align="center">
   <a href="https://github.com/C-KAVISHKA/apparelflow-erp">
-    <img src="https://img.shields.io/badge/🏭_ApparelFlow_ERP-REPOSITORY-1e293b?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🏭_ApparelFlow_ERP-REPOSITORY-161b22?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C-KAVISHKA/oceanview-reservation-system">
-    <img src="https://img.shields.io/badge/🏨_Oceanview_Suites-REPOSITORY-1e293b?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🏨_Oceanview_Suites-REPOSITORY-161b22?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -119,15 +114,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-KAVISHKA&theme=dark&background=0d1117&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff&sideLabels=c9d1d9&sideNums=00f0ff&currStreakNum=00f0ff&dates=6b7280&border=30363d" width="49%" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=C-KAVISHKA&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=30363d&langs_count=6" width="49%" />
 
-<br/><br/>
-
-<!-- ANIMATED COMMIT SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C-KAVISHKA/C-KAVISHKA/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C-KAVISHKA/C-KAVISHKA/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/C-KAVISHKA/C-KAVISHKA/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
 </div>
 
 ---
@@ -138,11 +124,11 @@
 
 Feel free to connect for software engineering roles, collaborations, or technical discussions:
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://c-kavishka.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f0ff&labelColor=161b22)](https://c-kavishka.github.io)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/channa-sandaruwan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=161b22)](https://linkedin.com/in/channa-sandaruwan)
 &nbsp;
-[![Email](https://img.shields.io/badge/Direct_Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:channasadhruvan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=161b22)](mailto:channasadhruvan@gmail.com)
 
 <br/><br/>
 
