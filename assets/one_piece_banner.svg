@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="160" viewBox="0 0 850 160">
+  <defs>
+    <!-- Pirate Gold Gradient -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd700">
+        <animate attributeName="stop-color" values="#ffd700;#ffae00;#fff176;#ffd700" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#fff176">
+        <animate attributeName="stop-color" values="#fff176;#ffd700;#ffae00;#fff176" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ffae00">
+        <animate attributeName="stop-color" values="#ffae00;#fff176;#ffd700;#ffae00" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Lightning / Cyan Glow Gradient -->
+    <linearGradient id="lightningGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ffd700"/>
+    </linearGradient>
+
+    <!-- Moonlight Radial Glow -->
+    <radialGradient id="moonGlow" cx="80%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="40%" stop-color="#00f0ff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#080c14" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="bannerClip">
+      <rect width="850" height="160" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#bannerClip)">
+    <!-- Deep Sea Night Background -->
+    <rect width="850" height="160" fill="#080c14"/>
+
+    <!-- Moonlight Atmosphere -->
+    <circle cx="700" cy="50" r="180" fill="url(#moonGlow)"/>
+
+    <!-- Glowing Full Moon on Right -->
+    <circle cx="720" cy="45" r="42" fill="#fff9db" opacity="0.85"/>
+    <circle cx="720" cy="45" r="50" fill="none" stroke="#ffd700" stroke-width="1" opacity="0.3">
+      <animate attributeName="r" values="48;56;48" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Gear 5 Billowing Smoke Clouds around Moon -->
+    <path d="M 660 65 Q 680 40 710 50 Q 740 30 760 55 Q 780 75 750 85 Q 710 90 680 80 Z" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="0 720 50" to="360 720 50" dur="25s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 680 50 Q 700 30 730 40 Q 750 25 770 45" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.4">
+      <animateTransform attributeName="transform" type="rotate" from="360 720 50" to="0 720 50" dur="20s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Animated Crackling Lightning Bolts -->
+    <polyline points="720,5 710,35 730,55 715,90 735,120" fill="none" stroke="#ffd700" stroke-width="2" opacity="0">
+      <animate attributeName="opacity" values="0;1;0;0;0.9;0;0" dur="1.8s" repeatCount="indefinite"/>
+    </polyline>
+    <polyline points="650,20 660,45 645,70 665,95" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0">
+      <animate attributeName="opacity" values="0;0;0.8;0;0;1;0" dur="2.3s" repeatCount="indefinite"/>
+    </polyline>
+
+    <!-- Left: Iconic Straw Hat Jolly Roger Helm -->
+    <g transform="translate(85, 80)">
+      <!-- Ship's Helm Wheel (Rotating) -->
+      <g>
+        <circle cx="0" cy="0" r="50" fill="none" stroke="#1e293b" stroke-width="4"/>
+        <circle cx="0" cy="0" r="42" fill="none" stroke="#ffd700" stroke-width="1" stroke-dasharray="6 8" opacity="0.6"/>
+        <line x1="0" y1="-58" x2="0" y2="58" stroke="#ffd700" stroke-width="2" opacity="0.4"/>
+        <line x1="-58" y1="0" x2="58" y2="0" stroke="#ffd700" stroke-width="2" opacity="0.4"/>
+        <line x1="-41" y1="-41" x2="41" y2="41" stroke="#ffd700" stroke-width="1.5" opacity="0.3"/>
+        <line x1="41" y1="-41" x2="-41" y2="41" stroke="#ffd700" stroke-width="1.5" opacity="0.3"/>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+      </g>
+
+      <!-- Crossed Bones -->
+      <line x1="-30" y1="-30" x2="30" y2="30" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+      <line x1="30" y1="-30" x2="-30" y2="30" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+      
+      <!-- Jolly Roger Skull -->
+      <ellipse cx="0" cy="-2" rx="20" ry="17" fill="#ffffff"/>
+      <!-- Straw Hat -->
+      <path d="M -32 -8 Q 0 -22 32 -8 Q 0 -14 -32 -8 Z" fill="#ffd700"/>
+      <ellipse cx="0" cy="-14" rx="14" ry="7" fill="#ffd700"/>
+      <!-- Red Ribbon -->
+      <path d="M -14 -12 Q 0 -16 14 -12 Q 0 -10 -14 -12 Z" fill="#ef4444"/>
+      <!-- Eyes & Grin -->
+      <circle cx="-7" cy="0" r="4" fill="#080c14"/>
+      <circle cx="7" cy="0" r="4" fill="#080c14"/>
+      <path d="M -10 8 Q 0 16 10 8" fill="none" stroke="#080c14" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-5" y1="9" x2="-5" y2="12" stroke="#080c14" stroke-width="1.5"/>
+      <line x1="0" y1="10" x2="0" y2="13" stroke="#080c14" stroke-width="1.5"/>
+      <line x1="5" y1="9" x2="5" y2="12" stroke="#080c14" stroke-width="1.5"/>
+    </g>
+
+    <!-- Animated Bioluminescent Waves on Bottom -->
+    <path fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.5">
+      <animate attributeName="d" dur="5s" repeatCount="indefinite" values="
+        M 0 148 Q 212 135 425 148 T 850 148;
+        M 0 148 Q 212 158 425 140 T 850 148;
+        M 0 148 Q 212 135 425 148 T 850 148
+      "/>
+    </path>
+    <path fill="none" stroke="#ffd700" stroke-width="1" opacity="0.3">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
+        M 0 152 Q 212 160 425 148 T 850 152;
+        M 0 152 Q 212 142 425 155 T 850 152;
+        M 0 152 Q 212 160 425 148 T 850 152
+      "/>
+    </path>
+
+    <!-- Center Typography -->
+    <!-- Top Piracy Tagline -->
+    <text x="400" y="38" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="10" font-weight="700" fill="#ffd700" letter-spacing="3">
+      ☠ KING OF THE SOFTWARE SEAS ☠
+    </text>
+
+    <!-- MAIN NAME -->
+    <text x="400" y="80" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="36" font-weight="900" fill="url(#goldGrad)" letter-spacing="3">
+      CHANNA KAVISHKA
+    </text>
+
+    <!-- SUBTITLE -->
+    <text x="400" y="108" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="12" font-weight="700" fill="#38bdf8" letter-spacing="5">
+      FULL-STACK &amp; 3D WebXR SOFTWARE ENGINEER
+    </text>
+
+    <!-- Chips Row -->
+    <g transform="translate(400, 126)">
+      <rect x="-170" y="0" width="105" height="18" rx="9" fill="rgba(255,215,0,0.08)" stroke="#ffd700" stroke-width="0.5"/>
+      <text x="-117" y="12" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8.5" font-weight="700" fill="#ffd700">CARDIFF MET '26</text>
+
+      <rect x="-55" y="0" width="110" height="18" rx="9" fill="rgba(56,189,248,0.08)" stroke="#38bdf8" stroke-width="0.5"/>
+      <text x="0" y="12" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8.5" font-weight="700" fill="#38bdf8">THREE.JS • WEBGL</text>
+
+      <rect x="65" y="0" width="105" height="18" rx="9" fill="rgba(239,68,68,0.08)" stroke="#ef4444" stroke-width="0.5"/>
+      <text x="117" y="12" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="8.5" font-weight="700" fill="#f87171">SPRING BOOT</text>
+    </g>
+
+    <!-- Outer Sleek Gold/Cyan Border -->
+    <rect x="0.5" y="0.5" width="849" height="159" rx="10" fill="none" stroke="url(#goldGrad)" stroke-width="1" opacity="0.5">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

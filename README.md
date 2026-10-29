@@ -1,18 +1,11 @@
 <div align="center">
 
-<!-- ══════════════════ ONE PIECE GEAR 5 CINEMATIC BANNER ══════════════════ -->
+<!-- ══════════════════ SLIM ANIMATED ONE PIECE BANNER ══════════════════ -->
 <a href="https://c-kavishka.github.io">
-  <img src="./assets/one_piece_banner.jpg" width="100%" alt="Channa Kavishka // One Piece Gear 5 Developer Banner" style="border-radius: 12px;" />
+  <img src="./assets/one_piece_banner.svg" width="100%" alt="Channa Kavishka // One Piece Animated Banner" />
 </a>
 
 <br/><br/>
-
-<!-- ══════════════════ DYNAMIC ANIMATED SUBTITLE ══════════════════ -->
-<a href="https://c-kavishka.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%9A%93+Setting+Sail+on+the+Grand+Line+of+Software+Engineering;%E2%9A%A1+Sun+God+Nika+Energy+%7C+Three.js+%E2%80%A2+WebXR+%E2%80%A2+Spring+Boot;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Cardiff+Metropolitan+University+'26+%E2%80%94+BSc+(Hons)+SE;%E2%9C%A8+Available+for+Software+Engineering+Roles" alt="One Piece Typing" />
-</a>
-
-<br/>
 
 <!-- ══════════════════ CLEAN ELEGANT SOCIAL BAR ══════════════════ -->
 <p align="center">
