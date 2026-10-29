@@ -1,61 +1,67 @@
 <div align="center">
 
-<!-- ══════════════════ SLIM ANIMATED ONE PIECE BANNER ══════════════════ -->
-<a href="https://c-kavishka.github.io">
-  <img src="./assets/one_piece_banner.svg" width="100%" alt="Channa Kavishka // One Piece Animated Banner" />
-</a>
+<!-- ══════════════════ SCENIC BANNER PHOTO ══════════════════ -->
+<img src="./assets/banner.jpg" width="100%" alt="Twilight Ocean Banner" style="border-radius: 8px;" />
 
 <br/><br/>
 
-<!-- ══════════════════ CLEAN ELEGANT SOCIAL BAR ══════════════════ -->
+# Channa Kavishka
+<p>
+  <strong>Software Engineering Undergraduate</strong> &bull; Cardiff Metropolitan University ('26)<br/>
+  Colombo, Sri Lanka
+</p>
+
 <p align="center">
   <a href="https://c-kavishka.github.io">
-    <img src="https://img.shields.io/badge/🏴‍☠️_Portfolio-c--kavishka.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=FFD700&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Portfolio-c--kavishka.github.io-21262d?style=flat-square&logo=googlechrome&logoColor=58a6ff" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/channa-sandaruwan">
-    <img src="https://img.shields.io/badge/⚓_LinkedIn-channa--sandaruwan-0d1117?style=flat-square&logo=linkedin&logoColor=0077b5&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/LinkedIn-channa--sandaruwan-21262d?style=flat-square&logo=linkedin&logoColor=0077b5" />
   </a>
   &nbsp;
   <a href="mailto:channasadhruvan@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-channasadhruvan-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/Email-channasadhruvan%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=ea4335" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡_Status-Open_to_Roles-0d1117?style=flat-square&logo=statuspage&logoColor=00ff88&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-21262d?style=flat-square&logo=statuspage&logoColor=3fb950" />
 </p>
 
 </div>
 
 ---
 
-### 🚀 About The Captain
+### About Me
 
-> **"Like Luffy aiming to become the Pirate King, I'm on a relentless voyage to build world-class software."**  
->  
-> Final-year **BSc (Hons) Software Engineering** student at **Cardiff Metropolitan University** ('26). I specialize in **Three.js, WebGL shaders, interactive GSAP animations**, and **scalable backend services with Spring Boot and Node.js**.
+Hi there! I'm Channa, a final-year BSc (Hons) Software Engineering undergraduate at Cardiff Metropolitan University.
+
+- 🎓 **Education:** Final-year Software Engineering student (graduating 2026).
+- 💡 **Interests:** Full-stack web development and exploring interactive 3D web graphics with Three.js and WebGL.
+- 🛠️ **Current Focus:** Building practical web applications, strengthening backend services with Spring Boot & Node.js, and experimenting with frontend UI.
+- 🌱 **Mindset:** Eager to learn, open to constructive feedback, and enthusiastic about collaborating with teams on real-world software.
 
 ---
 
-### 🛰️ Featured Projects
+### Featured Projects
 
 <div align="center">
 
 <p align="center">
   <a href="https://github.com/C-KAVISHKA/cafe-nuwara">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=C-KAVISHKA&repo=cafe-nuwara&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=C-KAVISHKA&repo=cafe-nuwara&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%" />
   </a>
   <a href="https://github.com/C-KAVISHKA/iFurnish_Shop">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=C-KAVISHKA&repo=iFurnish_Shop&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=C-KAVISHKA&repo=iFurnish_Shop&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://cafe-nuwara.vercel.app">
-    <img src="https://img.shields.io/badge/🍔_Café_Nuwara-LIVE_DEMO-00f0ff?style=flat-square&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Live_Demo-cafe--nuwara.vercel.app-21262d?style=flat-square&logo=vercel&logoColor=58a6ff" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://i-furnish-shop.vercel.app/">
-    <img src="https://img.shields.io/badge/🛋️_iFurnish-LIVE_DEMO-00f0ff?style=flat-square&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Live_Demo-i--furnish--shop.vercel.app-21262d?style=flat-square&logo=vercel&logoColor=58a6ff" />
   </a>
 </p>
 
@@ -63,20 +69,20 @@
 
 <p align="center">
   <a href="https://github.com/C-KAVISHKA/apparelflow-erp">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=C-KAVISHKA&repo=apparelflow-erp&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=C-KAVISHKA&repo=apparelflow-erp&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%" />
   </a>
   <a href="https://github.com/C-KAVISHKA/oceanview-reservation-system">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=C-KAVISHKA&repo=oceanview-reservation-system&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9" width="49%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=C-KAVISHKA&repo=oceanview-reservation-system&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" width="49%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/C-KAVISHKA/apparelflow-erp">
-    <img src="https://img.shields.io/badge/🏭_ApparelFlow_ERP-REPOSITORY-161b22?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Source_Code-apparelflow--erp-21262d?style=flat-square&logo=github&logoColor=c9d1d9" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/C-KAVISHKA/oceanview-reservation-system">
-    <img src="https://img.shields.io/badge/🏨_Oceanview_Suites-REPOSITORY-161b22?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Source_Code-oceanview--reservation-21262d?style=flat-square&logo=github&logoColor=c9d1d9" />
   </a>
 </p>
 
@@ -84,35 +90,33 @@
 
 ---
 
-### ⚡ Technologies & Core Arsenal
+### Skills & Technologies
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=threejs,react,nextjs,ts,js,tailwind,nodejs,express,spring,java&perline=10&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=python,rust,mysql,mongodb,postgres,docker,git,github,vercel,figma&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,postgres,docker,git,github,vscode,figma,postman&perline=10&theme=dark" />
 
 </div>
 
 <br/>
 
-* 🌌 **3D & Spatial WebXR:** Three.js • WebGL Shaders • WebXR (AR/VR) • GSAP ScrollTrigger • Lenis 60 FPS
-* 💻 **Frontend Architecture:** TypeScript • JavaScript (ES6+) • React.js • Next.js • Tailwind CSS • Framer Motion
-* ⚙️ **Backend & Cloud:** Java (OOP) • Spring Boot • Node.js • Express.js • Python • RESTful APIs
-* 🗄️ **Databases & DevOps:** MySQL • MongoDB • PostgreSQL • Hibernate JPA • Docker • Git • Vercel
+- **Frontend & 3D:** Three.js, WebGL, React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3
+- **Backend & APIs:** Java, Spring Boot, Node.js, Express.js, RESTful APIs
+- **Databases & DevOps:** MySQL, MongoDB, PostgreSQL, Git, GitHub, Docker, Postman, Figma
 
 ---
 
-### 📊 GitHub Activity & Telemetry
+### GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=C-KAVISHKA&theme=dark&background=0d1117&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff&sideLabels=c9d1d9&sideNums=00f0ff&currStreakNum=00f0ff&dates=6b7280&border=30363d" width="49%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=C-KAVISHKA&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=30363d&langs_count=6" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=C-KAVISHKA&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&sideNums=58a6ff&currStreakNum=58a6ff&dates=6e7681" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=C-KAVISHKA&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&langs_count=6" width="49%" />
 
 <br/><br/>
 
-<!-- ANIMATED COMMIT SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C-KAVISHKA/C-KAVISHKA/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C-KAVISHKA/C-KAVISHKA/output/github-contribution-grid-snake.svg">
@@ -125,18 +129,24 @@
 
 <div align="center">
 
-### 🌐 Let's Build Something Exceptional
+### Connect With Me
 
-Feel free to connect for software engineering roles, collaborations, or technical discussions:
+Feel free to connect or reach out regarding software engineering roles, project collaborations, or general inquiries:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=FFD700&labelColor=161b22)](https://c-kavishka.github.io)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=161b22)](https://linkedin.com/in/channa-sandaruwan)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=161b22)](mailto:channasadhruvan@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/channa-sandaruwan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:channasadhruvan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-ea4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://c-kavishka.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-21262d?style=flat-square&logo=googlechrome&logoColor=58a6ff" />
+  </a>
+</p>
 
-<br/><br/>
-
-<sub>Designed & Engineered by **Channa Kavishka** • Cardiff Metropolitan University '26</sub>
+<sub>© 2026 Channa Kavishka</sub>
 
 </div>
