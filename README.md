@@ -1,211 +1,249 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     C-KAVISHKA // GITHUB NEURAL INTERFACE v2.0
+     Full-Stack & 3D WebXR Software Engineer
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Futuristic Holographic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26&height=220&section=header&text=CHANNA%20KAVISHKA%20//%20ONLINE&fontSize=38&fontAlignY=38&animation=twinkling&fontColor=00f0ff" width="100%" />
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ANIMATED SVG HEADER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="./assets/header.svg" width="100%" alt="Channa Kavishka — Full-Stack & 3D WebXR Engineer" />
 
-<!-- Dynamic Cyber Typing HUD -->
+<br/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TYPING ANIMATION ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 <a href="https://c-kavishka.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=%3E_OPERATOR%3A+CHANNA+KAVISHKA+%5BSOFTWARE+ENGINEER%5D;%3E_SPECIALIZATION%3A+FULL-STACK+%7C+3D+WEBXR+%7C+ENTERPRISE+SYSTEMS;%3E_MISSION%3A+BUILDING+IMMERSIVE+EXPERIENCES+%26+SCALABLE+APIS;%3E_AVAILABILITY%3A+OPEN+FOR+SOFTWARE+ENGINEERING+OPPORTUNITIES" alt="Typing Matrix" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%24+neofetch+--operator+C-KAVISHKA;Building+immersive+3D+web+experiences+%26+enterprise+systems" alt="Typing Animation" />
 </a>
 
 <br/>
 
-<!-- System Telemetry Badges -->
-[![System Status](https://img.shields.io/badge/CORE_STATUS-ONLINE-00f0ff?style=for-the-badge&logo=statuspage&logoColor=black)](#)
-[![Clearance](https://img.shields.io/badge/CLEARANCE-LEVEL_4_ENG-ff0055?style=for-the-badge&logo=shield&logoColor=white)](#)
-[![Domain](https://img.shields.io/badge/SECTOR-3D_WEBXR_%26_ENTERPRISE-7928ca?style=for-the-badge&logo=unity&logoColor=white)](#)
-[![Education](https://img.shields.io/badge/ACADEMY-CARDIFF_MET_UNIV-38bdf8?style=for-the-badge&logo=futurelearn&logoColor=white)](#)
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ QUICK STATUS BADGES ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<a href="https://c-kavishka.github.io">
+  <img src="https://img.shields.io/badge/PORTFOLIO-c--kavishka.github.io-00f0ff?style=flat-square&logo=safari&logoColor=black" />
+</a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=flat-square&logo=statuspage&logoColor=black" />
+<img src="https://komarev.com/ghpvc/?username=C-KAVISHKA&style=flat-square&color=00f0ff&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ANIMATED DIVIDER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="./assets/line.svg" width="100%" />
 
-### 📡 `// OPERATOR_TELEMETRY`
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ABOUT / NEOFETCH SECTION ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-```yaml
-Operator: Channa Kavishka Sadaruwan
-Handle: @C-KAVISHKA
-Role: Full-Stack & 3D WebXR Software Engineer
-Education: BSc (Hons) Software Engineering — Cardiff Metropolitan University (2026)
-Core_Focus: Three.js/WebGL • GSAP Micro-Interactions • React/Next.js • Spring Boot • Node.js
-Uptime: 99.9%
-Status: 🟢 Actively seeking Software Engineering Intern / Trainee Roles
+```js
+// ═══════════════ SYSTEM PROFILE ═══════════════
+
+const kavishka = {
+    name:       "Channa Kavishka Sadaruwan",
+    handle:     "@C-KAVISHKA",
+    role:       "Full-Stack & 3D WebXR Software Engineer",
+    education:  "BSc (Hons) Software Engineering — Cardiff Metropolitan University (2026)",
+    location:   "Sri Lanka 🇱🇰",
+    
+    expertise: {
+        frontend:   ["React.js", "Next.js", "TypeScript", "TailwindCSS", "Framer Motion"],
+        "3d_webxr": ["Three.js", "WebGL", "GSAP", "ScrollTrigger", "Lenis", "WebXR AR/VR"],
+        backend:    ["Node.js", "Express.js", "Spring Boot", "REST APIs"],
+        databases:  ["MySQL", "MongoDB", "PostgreSQL"],
+        languages:  ["JavaScript", "TypeScript", "Java", "Python", "Rust"],
+        devops:     ["Docker", "Git", "GitHub Actions", "Vercel"]
+    },
+
+    currentMission: "Building immersive WebXR experiences & scalable enterprise systems",
+    status: "🟢 Actively seeking Software Engineering Intern / Trainee roles"
+};
 ```
 
----
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ANIMATED DIVIDER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="./assets/line.svg" width="100%" />
 
-### ⚡ `// TECH_STACK_MATRIX`
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TECH STACK — SKILL ICONS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<h3 align="center"><samp>⚡ TECH STACK MATRIX</samp></h3>
 
 <div align="center">
 
-#### `[ 3D & INTERACTIVE WEBXR ]`
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP_ScrollTrigger-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![WebXR](https://img.shields.io/badge/WebXR_(AR/VR)-0052CC?style=for-the-badge&logo=oculus&logoColor=white)
-
-#### `[ FRONTEND_PROTOCOLS ]`
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-#### `[ BACKEND & ENTERPRISE SERVICES ]`
-![Java](https://img.shields.io/badge/Java_OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-### 🛰️ `// PROJECT_NEXUS (FEATURED PROTOTYPES)`
-
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🍔 Café Nuwara (3D WebXR)</h3>
-      <p align="center">
-        <code>STATUS: [OPERATIONAL]</code> • <code>SECTOR: 3D WEB / GSAP</code>
-      </p>
-      <p align="center">
-        Interactive 3D WebGL entrance sequence with custom camera animations, scroll-triggered layer-by-layer anatomy breakdowns, and smooth Lenis physics.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/C-KAVISHKA/cafe-nuwara"><b>[ ACCESS SOURCE ]</b></a> • 
-        <a href="https://cafe-nuwara.vercel.app"><b>[ LIVE UPLINK ]</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏭 ApparelFlow ERP</h3>
-      <p align="center">
-        <code>STATUS: [IN_PRODUCTION]</code> • <code>SECTOR: ENTERPRISE</code>
-      </p>
-      <p align="center">
-        Complete enterprise resource planning platform engineered for garment production lines, order tracking, real-time inventory, and multi-tier workflows.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/C-KAVISHKA/apparelflow-erp"><b>[ ACCESS SOURCE ]</b></a>
-      </p>
-    </td>
+    <td align="center" width="140"><b><samp>3D / WebXR</samp></b></td>
+    <td align="center" width="140"><b><samp>Frontend</samp></b></td>
+    <td align="center" width="140"><b><samp>Backend</samp></b></td>
+    <td align="center" width="140"><b><samp>Database</samp></b></td>
+    <td align="center" width="140"><b><samp>DevOps</samp></b></td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🛋️ iFurnish Shop (AI & 3D)</h3>
-      <p align="center">
-        <code>STATUS: [ONLINE]</code> • <code>SECTOR: AI / E-COMMERCE</code>
-      </p>
-      <p align="center">
-        AI-assisted spatial furniture recommendation engine, intelligent chatbot modules, and 3D preview integration for modern interior spaces.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Chatbot-00f0ff?style=flat-square&logo=openai&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/C-KAVISHKA/iFurnish_Shop"><b>[ ACCESS SOURCE ]</b></a>
-      </p>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=threejs&theme=dark" height="40" /><br/>
+      <sub><samp>Three.js</samp></sub><br/>
+      <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
     </td>
-    <td width="50%">
-      <h3 align="center">🏨 Oceanview Reservation System</h3>
-      <p align="center">
-        <code>STATUS: [DEPLOYED]</code> • <code>SECTOR: JAVA ENTERPRISE</code>
-      </p>
-      <p align="center">
-        Enterprise resort management and booking system with room availability lifecycle, guest check-in/out pipelines, and transactional database persistence.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/C-KAVISHKA/oceanview-reservation-system"><b>[ ACCESS SOURCE ]</b></a>
-      </p>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,ts,nextjs&theme=dark" height="40" /><br/>
+      <sub><samp>React · TS · Next.js</samp></sub><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="30" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛡️ HealthShield AI</h3>
-      <p align="center">
-        <code>STATUS: [ONLINE]</code> • <code>SECTOR: HEALTHCARE & EHR</code>
-      </p>
-      <p align="center">
-        Electronic health records (EHR) management service with role-based access control (RBAC), patient diagnostic tracking, and ACID-compliant MySQL storage.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/C-KAVISHKA/healthshield_ai"><b>[ ACCESS SOURCE ]</b></a>
-      </p>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" height="40" /><br/>
+      <sub><samp>Node · Express · Spring</samp></sub><br/>
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" height="30" />
     </td>
-    <td width="50%">
-      <h3 align="center">⚙️ Claw-Code</h3>
-      <p align="center">
-        <code>STATUS: [IN_DEVELOPMENT]</code> • <code>SECTOR: SYSTEMS TOOLING</code>
-      </p>
-      <p align="center">
-        High-performance developer harness utilities and execution tools engineered for speed and workflow automation. Rewriting core pipelines in Rust.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" />
-        <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=githubactions&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/C-KAVISHKA/claw-code"><b>[ ACCESS SOURCE ]</b></a>
-      </p>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" height="40" /><br/>
+      <sub><samp>MySQL · Mongo · PG</samp></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark" height="40" /><br/>
+      <sub><samp>Docker · Git · Vercel</samp></sub>
     </td>
   </tr>
 </table>
 
----
-
-### 📊 `// TELEMETRY_METRICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=C-KAVISHKA&show_icons=true&theme=radical&bg_color=08090d&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&border_color=00f0ff&hide_border=false" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=C-KAVISHKA&theme=radical&background=08090d&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&border=00f0ff" width="48%" />
-
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-KAVISHKA&layout=compact&theme=radical&bg_color=08090d&title_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false" width="60%" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,rust,react,nextjs,tailwind,threejs,nodejs,express,spring,mysql,mongodb,docker,git,github,vercel,vscode,figma&perline=10&theme=dark" />
 
 </div>
 
----
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ANIMATED DIVIDER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="./assets/line.svg" width="100%" />
 
-### 🌐 `// TRANSMISSION_UPLINKS`
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ FEATURED PROJECTS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<h3 align="center"><samp>🛰️ PROJECT NEXUS — FEATURED SYSTEMS</samp></h3>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/UPLINK-LIVE_PORTFOLIO-00f0ff?style=for-the-badge&logo=safari&logoColor=black)](https://c-kavishka.github.io)
-[![LinkedIn](https://img.shields.io/badge/NETWORK-LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/channa-sandaruwan)
-[![Email Transmission](https://img.shields.io/badge/DIRECT_COMMS-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:channasadhruvan@gmail.com)
+<!-- Row 1 -->
+<a href="https://github.com/C-KAVISHKA/cafe-nuwara">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=C-KAVISHKA&repo=cafe-nuwara&theme=radical&bg_color=08090d&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&border_color=1a1b26&hide_border=false" width="48%" />
+</a>
+<a href="https://github.com/C-KAVISHKA/apparelflow-erp">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=C-KAVISHKA&repo=apparelflow-erp&theme=radical&bg_color=08090d&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&border_color=1a1b26&hide_border=false" width="48%" />
+</a>
 
 <br/>
 
-```terminal
-[SYSTEM] Uplink established. Session code: 200 OK. Listening on port 443...
-```
+<!-- Row 2 -->
+<a href="https://github.com/C-KAVISHKA/iFurnish_Shop">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=C-KAVISHKA&repo=iFurnish_Shop&theme=radical&bg_color=08090d&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&border_color=1a1b26&hide_border=false" width="48%" />
+</a>
+<a href="https://github.com/C-KAVISHKA/oceanview-reservation-system">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=C-KAVISHKA&repo=oceanview-reservation-system&theme=radical&bg_color=08090d&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&border_color=1a1b26&hide_border=false" width="48%" />
+</a>
+
+<br/>
+
+<!-- Row 3 -->
+<a href="https://github.com/C-KAVISHKA/healthshield_ai">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=C-KAVISHKA&repo=healthshield_ai&theme=radical&bg_color=08090d&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&border_color=1a1b26&hide_border=false" width="48%" />
+</a>
+<a href="https://github.com/C-KAVISHKA/claw-code">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=C-KAVISHKA&repo=claw-code&theme=radical&bg_color=08090d&title_color=00f0ff&icon_color=ff0055&text_color=c9d1d9&border_color=1a1b26&hide_border=false" width="48%" />
+</a>
 
 </div>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ EXPANDED PROJECT DETAILS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<details>
+<summary><samp>▸ EXPAND: DETAILED PROJECT INTEL</samp></summary>
+
+<br/>
+
+<table>
+  <tr>
+    <th width="25%">Project</th>
+    <th width="10%">Status</th>
+    <th width="40%">Description</th>
+    <th width="25%">Tech</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/C-KAVISHKA/cafe-nuwara">🍔 Café Nuwara</a></b><br/><a href="https://cafe-nuwara.vercel.app"><samp>[LIVE DEMO]</samp></a></td>
+    <td><img src="https://img.shields.io/badge/-LIVE-00ff88?style=flat-square" /></td>
+    <td>Interactive 3D WebGL burger café with entrance sequences, GSAP scroll-triggered anatomy breakdowns, and smooth Lenis physics</td>
+    <td><img src="https://skillicons.dev/icons?i=threejs,js,tailwind&theme=dark" height="25" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/C-KAVISHKA/apparelflow-erp">🏭 ApparelFlow ERP</a></b></td>
+    <td><img src="https://img.shields.io/badge/-PROD-00f0ff?style=flat-square" /></td>
+    <td>Enterprise resource planning for garment production — order tracking, inventory management, multi-tier workflows</td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,nodejs&theme=dark" height="25" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/C-KAVISHKA/iFurnish_Shop">🛋️ iFurnish Shop</a></b></td>
+    <td><img src="https://img.shields.io/badge/-ACTIVE-a78bfa?style=flat-square" /></td>
+    <td>AI-powered furniture recommendation engine with chatbot modules and 3D preview integration</td>
+    <td><img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" height="25" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/C-KAVISHKA/oceanview-reservation-system">🏨 Oceanview</a></b></td>
+    <td><img src="https://img.shields.io/badge/-DEPLOYED-00f0ff?style=flat-square" /></td>
+    <td>Enterprise hotel booking system with room availability lifecycle, check-in/out pipelines, transactional DB</td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,mysql&theme=dark" height="25" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/C-KAVISHKA/healthshield_ai">🛡️ HealthShield AI</a></b></td>
+    <td><img src="https://img.shields.io/badge/-ACTIVE-a78bfa?style=flat-square" /></td>
+    <td>EHR management with RBAC, patient diagnostics, ACID-compliant MySQL persistence</td>
+    <td><img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark" height="25" /></td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/C-KAVISHKA/claw-code">⚙️ Claw-Code</a></b></td>
+    <td><img src="https://img.shields.io/badge/-WIP-ff0055?style=flat-square" /></td>
+    <td>High-performance developer harness tools — rewriting in Rust for speed and workflow automation</td>
+    <td><img src="https://skillicons.dev/icons?i=rust&theme=dark" height="25" /></td>
+  </tr>
+</table>
+
+</details>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ANIMATED DIVIDER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="./assets/line.svg" width="100%" />
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ GITHUB STATS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<h3 align="center"><samp>📊 TELEMETRY METRICS</samp></h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=C-KAVISHKA&show_icons=true&theme=radical&bg_color=08090d&title_color=00f0ff&text_color=c9d1d9&icon_color=00f0ff&border_color=1a1b26&hide_border=false&ring_color=00f0ff&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=C-KAVISHKA&theme=radical&background=08090d&ring=00f0ff&fire=ff0055&currStreakLabel=00f0ff&sideLabels=c9d1d9&sideNums=00f0ff&currStreakNum=00f0ff&dates=6b7280&border=1a1b26" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=C-KAVISHKA&layout=compact&theme=radical&bg_color=08090d&title_color=00f0ff&text_color=c9d1d9&border_color=1a1b26&hide_border=false&langs_count=8" width="60%" />
+
+</div>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ANIMATED DIVIDER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<img src="./assets/line.svg" width="100%" />
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ CONNECT / UPLINKS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<h3 align="center"><samp>🌐 TRANSMISSION UPLINKS</samp></h3>
+
+<div align="center">
+
+<a href="https://c-kavishka.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-c--kavishka.github.io-08090d?style=for-the-badge&logo=safari&logoColor=00f0ff&labelColor=08090d&color=1a1b26" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/channa-sandaruwan">
+  <img src="https://img.shields.io/badge/LinkedIn-channa--sandaruwan-08090d?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=08090d&color=1a1b26" />
+</a>
+&nbsp;
+<a href="mailto:channasadhruvan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-channasadhruvan-08090d?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=08090d&color=1a1b26" />
+</a>
+
+</div>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ANIMATED SVG FOOTER ▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Terminal Footer" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->

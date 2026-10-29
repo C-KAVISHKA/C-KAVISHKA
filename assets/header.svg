@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="186" viewBox="0 0 850 186">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00f0ff">
+        <animate attributeName="stop-color" values="#00f0ff;#7928ca;#ff0055;#00f0ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#7928ca">
+        <animate attributeName="stop-color" values="#7928ca;#ff0055;#00f0ff;#7928ca" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#ff0055">
+        <animate attributeName="stop-color" values="#ff0055;#00f0ff;#7928ca;#ff0055" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#08090d"/>
+      <stop offset="100%" style="stop-color:#0f1117"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowStrong">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(0,240,255,0.04)" stroke-width="0.5"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.5" fill="rgba(0,240,255,0.015)"/>
+    </pattern>
+    <clipPath id="roundClip">
+      <rect width="850" height="186" rx="10"/>
+    </clipPath>
+  </defs>
+  
+  <g clip-path="url(#roundClip)">
+    <!-- Background -->
+    <rect width="850" height="186" fill="url(#bgGrad)"/>
+    <rect width="850" height="186" fill="url(#grid)"/>
+    <rect width="850" height="186" fill="url(#scan)"/>
+    
+    <!-- Animated border glow -->
+    <rect x="1" y="1" width="848" height="184" rx="10" fill="none" stroke="url(#grad)" stroke-width="1.5" opacity="0.6">
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    
+    <!-- Corner brackets -->
+    <path d="M 18 6 L 6 6 L 6 18" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+    <path d="M 832 6 L 844 6 L 844 18" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+    <path d="M 18 180 L 6 180 L 6 168" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+    <path d="M 832 180 L 844 180 L 844 168" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+
+    <!-- Top HUD bar -->
+    <rect x="20" y="14" width="810" height="18" rx="3" fill="rgba(0,240,255,0.04)"/>
+    <line x1="20" y1="32" x2="830" y2="32" stroke="#00f0ff" stroke-width="0.3" opacity="0.3"/>
+    <circle cx="32" cy="23" r="3" fill="#ff5f56"/>
+    <circle cx="44" cy="23" r="3" fill="#ffbd2e"/>
+    <circle cx="56" cy="23" r="3" fill="#27c93f"/>
+    <text x="72" y="26" font-family="'Courier New',monospace" font-size="9" fill="#6b7280">operator@C-KAVISHKA:~</text>
+    <text x="730" y="26" font-family="'Courier New',monospace" font-size="8" fill="#00f0ff" opacity="0.5">
+      ● LIVE
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2s" repeatCount="indefinite"/>
+    </text>
+    <circle cx="722" cy="23" r="2.5" fill="#00ff88">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Main title -->
+    <text x="425" y="72" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" font-weight="bold" fill="url(#grad)" filter="url(#glowStrong)" letter-spacing="3">
+      C H A N N A   K A V I S H K A
+    </text>
+    
+    <!-- Role subtitle -->
+    <text x="425" y="96" text-anchor="middle" font-family="'Courier New',monospace" font-size="11" fill="#a0aec0" letter-spacing="5">
+      FULL-STACK  ·  3D WebXR  ·  ENTERPRISE SYSTEMS
+    </text>
+    
+    <!-- Animated underline -->
+    <line x1="235" y1="106" x2="615" y2="106" stroke="url(#grad)" stroke-width="0.8" opacity="0.5">
+      <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite"/>
+    </line>
+    
+    <!-- Info chips -->
+    <rect x="165" y="118" width="140" height="22" rx="11" fill="rgba(0,240,255,0.06)" stroke="#00f0ff" stroke-width="0.5"/>
+    <text x="235" y="133" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#00f0ff">📍 Sri Lanka</text>
+    
+    <rect x="325" y="118" width="200" height="22" rx="11" fill="rgba(121,40,202,0.06)" stroke="#7928ca" stroke-width="0.5"/>
+    <text x="425" y="133" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#a78bfa">🎓 Cardiff Met University</text>
+    
+    <rect x="545" y="118" width="140" height="22" rx="11" fill="rgba(255,0,85,0.06)" stroke="#ff0055" stroke-width="0.5"/>
+    <text x="615" y="133" text-anchor="middle" font-family="'Courier New',monospace" font-size="9" fill="#ff6b8a">⚡ BSc SE '26</text>
+
+    <!-- Bottom HUD -->
+    <line x1="20" y1="155" x2="830" y2="155" stroke="#00f0ff" stroke-width="0.3" opacity="0.2"/>
+    <text x="30" y="170" font-family="'Courier New',monospace" font-size="8" fill="#4a5568">
+      PROJECTS: 8+ │ STACK: 15+ │ COMMITS: 457+ │ CLEARANCE: L4
+      <animate attributeName="opacity" values="0.3;0.5;0.3" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="740" y="170" font-family="'Courier New',monospace" font-size="8" fill="#00f0ff" opacity="0.3">
+      ▊▊▊▊▊▊▊▊▊▊
+    </text>
+    <text x="810" y="170" font-family="'Courier New',monospace" font-size="8" fill="#00ff88" opacity="0.4">100%</text>
+  </g>
+</svg>
