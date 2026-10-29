@@ -1,36 +1,43 @@
 <div align="center">
 
-<!-- ══════════════════ DYNAMIC ANIMATED 3D WebXR HERO BANNER ══════════════════ -->
+<!-- ══════════════════ ONE PIECE GEAR 5 CINEMATIC BANNER ══════════════════ -->
 <a href="https://c-kavishka.github.io">
-  <img src="./assets/banner.svg" width="100%" alt="Channa Kavishka // 3D WebXR & Full-Stack Software Engineer" />
+  <img src="./assets/one_piece_banner.jpg" width="100%" alt="Channa Kavishka // One Piece Gear 5 Developer Banner" style="border-radius: 12px;" />
 </a>
 
 <br/><br/>
 
-<!-- ══════════════════ SLEEK UNIFIED SOCIAL BAR ══════════════════ -->
+<!-- ══════════════════ DYNAMIC ANIMATED SUBTITLE ══════════════════ -->
+<a href="https://c-kavishka.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=%E2%9A%93+Setting+Sail+on+the+Grand+Line+of+Software+Engineering;%E2%9A%A1+Sun+God+Nika+Energy+%7C+Three.js+%E2%80%A2+WebXR+%E2%80%A2+Spring+Boot;%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+Cardiff+Metropolitan+University+'26+%E2%80%94+BSc+(Hons)+SE;%E2%9C%A8+Available+for+Software+Engineering+Roles" alt="One Piece Typing" />
+</a>
+
+<br/>
+
+<!-- ══════════════════ CLEAN ELEGANT SOCIAL BAR ══════════════════ -->
 <p align="center">
   <a href="https://c-kavishka.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-c--kavishka.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=00f0ff&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/🏴‍☠️_Portfolio-c--kavishka.github.io-0d1117?style=flat-square&logo=googlechrome&logoColor=FFD700&labelColor=161b22" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/channa-sandaruwan">
-    <img src="https://img.shields.io/badge/LinkedIn-channa--sandaruwan-0d1117?style=flat-square&logo=linkedin&logoColor=0077b5&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/⚓_LinkedIn-channa--sandaruwan-0d1117?style=flat-square&logo=linkedin&logoColor=0077b5&labelColor=161b22" />
   </a>
   &nbsp;
   <a href="mailto:channasadhruvan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-channasadhruvan-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=161b22" />
+    <img src="https://img.shields.io/badge/✉️_Email-channasadhruvan-0d1117?style=flat-square&logo=gmail&logoColor=ea4335&labelColor=161b22" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open_to_Roles-0d1117?style=flat-square&logo=statuspage&logoColor=00ff88&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/⚡_Status-Open_to_Roles-0d1117?style=flat-square&logo=statuspage&logoColor=00ff88&labelColor=161b22" />
 </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 About The Captain
 
-> **"Bridging real-time 3D spatial computing with high-scale enterprise architectures."**  
+> **"Like Luffy aiming to become the Pirate King, I'm on a relentless voyage to build world-class software."**  
 >  
 > Final-year **BSc (Hons) Software Engineering** student at **Cardiff Metropolitan University** ('26). I specialize in **Three.js, WebGL shaders, interactive GSAP animations**, and **scalable backend services with Spring Boot and Node.js**.
 
@@ -129,7 +136,7 @@
 
 Feel free to connect for software engineering roles, collaborations, or technical discussions:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f0ff&labelColor=161b22)](https://c-kavishka.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=FFD700&labelColor=161b22)](https://c-kavishka.github.io)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=161b22)](https://linkedin.com/in/channa-sandaruwan)
 &nbsp;
