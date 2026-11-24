@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Portfolio-c--kavishka.github.io-21262d?style=flat-square&logo=googlechrome&logoColor=58a6ff" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/channa-sandaruwan">
+  <a href="https://www.linkedin.com/in/channa-sandaruwan-57b55737a/">
     <img src="https://img.shields.io/badge/LinkedIn-channa--sandaruwan-21262d?style=flat-square&logo=linkedin&logoColor=0077b5" />
   </a>
   &nbsp;
@@ -134,7 +134,7 @@ Hi there! I'm Channa, a final-year BSc (Hons) Software Engineering undergraduate
 Feel free to connect or reach out regarding software engineering roles, project collaborations, or general inquiries:
 
 <p align="center">
-  <a href="https://linkedin.com/in/channa-sandaruwan">
+  <a href="https://www.linkedin.com/in/channa-sandaruwan-57b55737a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
